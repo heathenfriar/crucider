@@ -1,0 +1,64 @@
+body {
+	color: #97b15e;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	margin: 0px;
+	padding: 0px;
+	background-color:#051c00;
+}
+.clear{clear:both;}
+* {margin: 0px;padding: 0px;}
+#container {
+	margin: 10px 10px 10px 10px;
+	text-align: center;
+	
+}
+a{color:#80ba04;}
+a:hover{color:#b7fb24;}
+/********************** Header ***************************/
+#header {
+	height:315px;
+	position:relative;
+}
+/********************** Buttons **************************/
+#buttons ul{
+	position:absolute;
+	top:310px;
+	left:210px;
+}
+#buttons li{
+	display:block;
+	float:left;
+	width:97px;
+}
+#buttons ul a{
+	color:#aefa0d;
+	text-decoration:none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: 900;
+	text-transform: capitalize;
+}
+#buttons ul a:hover{color:#97b15e;}
+
+/********************** main ***************************/
+#main {
+	
+}
+#main h3{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	text-transform: none;
+	color: #7eae19;}
+#main p{
+
+#main a{}
+/********************** Footer ***************************/
+#footer {
+	background-image:url(images/line.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
