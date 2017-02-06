@@ -27,12 +27,12 @@ a:hover{color:#b7fb24;}
 	left:0px;
 	float:center;
 	margin:0 auto;
-	width:600px;
+	width:630px;
 }
 #navigation li{
 	display:block;
 	float:left;
-	width:97px;
+	width:90px;
 }
 #navigation ul a{
 	color:#aefa0d;
@@ -43,7 +43,7 @@ a:hover{color:#b7fb24;}
 }
 #navigation ul a:hover{color:#97b15e;}
 
-/********************** main ***************************/
+/********************** Main ***************************/
 #main {
 	
 }
