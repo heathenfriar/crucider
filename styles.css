@@ -27,12 +27,12 @@ a:hover{color:#b7fb24;}
 	left:0px;
 	float:center;
 	margin:0 auto;
-	width:630px;
+	width:600px;
 }
 #navigation li{
 	display:block;
 	float:left;
-	width:90px;
+	width:100px;
 }
 #navigation ul a{
 	color:#aefa0d;
